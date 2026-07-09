@@ -6,7 +6,7 @@ Swiss School Consulting UK Guardianship — веб-сайт на основе б
 ## Tech Stack
 - Чистый HTML + CSS + JavaScript (без фреймворков)
 - Шрифт Inter
-- Одиночный файл: `ssc-uk.html`
+- Одиночный файл: `index.html`
 
 ## Текущее состояние
 - [x] Готово: Навбар с логотипом SSC (SVG)
