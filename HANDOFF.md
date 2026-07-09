@@ -8,18 +8,26 @@ Swiss School Consulting UK Guardianship — веб-сайт на основе б
 - Шрифт Inter
 - Одиночный файл: `index.html`
 
+## Live URL
+**https://swiss-school-consulting.vercel.app**
+
+## GitHub Repository
+https://github.com/ataiibraimov412001-arch/swiss-school-consulting
+
 ## Текущее состояние
 - [x] Готово: Навбар с логотипом SSC (SVG)
 - [x] Готово: Hero секция с фото Swiss-tourism-2.webp (затемнение 30%)
 - [x] Готово: Цитата Serge Gay
 - [x] Готово: Секция "Why Families Choose SSC" (5 причин)
 - [x] Готово: Safeguarding секция (Safehire.ai + Edinburgh Guardian Angels)
-- [x] Готово: Academic & Career Programs
+- [x] Готово: Academic & Career Programs (8 карточек)
 - [x] Готово: Post-High School & University Support
 - [x] Готово: Stats секция
 - [x] Готово: Footer с контактами (телефон, email, WhatsApp, WeChat)
 - [x] Готово: Анимация волны над копирайтом (интерактивная)
 - [x] Готово: Плавное появление секций (fade-in)
+- [x] Готово: GitHub репозиторий
+- [x] Готово: Vercel деплой
 
 ## Assets
 - `logo-ssc.svg` — логотип
@@ -40,3 +48,8 @@ Swiss School Consulting UK Guardianship — веб-сайт на основе б
 6. #services — Post-High School Support
 7. Stats — 4 метрики
 8. Footer — контакты, копирайт + волна
+
+## To update
+1. Редактировать `index.html`
+2. `git add -A && git commit -m "message" && git push origin main`
+3. Vercel передеплоит автоматически
